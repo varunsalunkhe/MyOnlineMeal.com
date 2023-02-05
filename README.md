@@ -1,4 +1,4 @@
 # MyOnlineMeal.com
 
 
-![](https://github.com/varunsalunkhe/Flight-Ticket-Price-Prediction/blob/main/Documents/Untitled.gif)
+![](https://github.com/varunsalunkhe/MyOnlineMeal.com/blob/main/assets/MyOnlineMeal.gif)
