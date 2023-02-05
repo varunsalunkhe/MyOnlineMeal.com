@@ -1,0 +1,29 @@
+/* navbar */
+#navbar {
+    
+    flex-direction: column;
+}
+
+.logo {
+    margin: 0px 5px;
+}
+
+#navbar ul li a {
+    margin: 0px 0px;
+    padding: 0px 0px;
+   
+    font-size: 1rem;
+}
+
+/* search item */
+
+/* section1 */
+
+/* section2 */
+#section2 {
+  flex-direction: column;
+}
+
+/* section3 */
+
+/* section4 */
